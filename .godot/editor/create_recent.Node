@@ -1,0 +1,15 @@
+CollisionPolygon2D
+Sprite2D
+ParallaxLayer
+ParallaxBackground
+Label
+MarginContainer
+AudioStreamPlayer
+AnimationPlayer
+HBoxContainer
+CanvasLayer
+Timer
+TextureRect
+Marker2D
+Node
+VisibleOnScreenNotifier2D
