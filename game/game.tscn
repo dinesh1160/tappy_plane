@@ -38,10 +38,10 @@ shape = SubResource("RectangleShape2D_os5rk")
 [node name="pipesholder" type="Node" parent="."]
 
 [node name="spawnU" type="Marker2D" parent="."]
-position = Vector2(530, 250)
+position = Vector2(530, 270)
 
 [node name="spawnL" type="Marker2D" parent="."]
-position = Vector2(530, 640)
+position = Vector2(530, 620)
 
 [node name="spawnTimer" type="Timer" parent="."]
 wait_time = 0.8

@@ -2,7 +2,7 @@ extends Node2D
 
 @onready var scoresound = $SCORESOUND
 
-const SCROLL_SPEED: float =  180.0
+const SCROLL_SPEED: float =  170.0
 
 # Called when the node enters the scene tree for the first time.
 func _ready():

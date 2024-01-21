@@ -1,3 +1,5 @@
 res://game/game.tscn
 res://pipe/pipe.tscn
 res://pipes/pipes.tscn
+res://scrolling_layer/scrolling_layer.tscn
+res://laser/laser.tscn
